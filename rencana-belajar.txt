@@ -1,3 +1,7 @@
 1. php
+-native
 2. database
-3. dll
+-mariadb
+python
+
+
